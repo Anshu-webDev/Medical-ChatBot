@@ -5,104 +5,263 @@
   },
   "faqs": [
     {
-      "keywords": ["hello", "hi", "hey", "greet"],
+      "keywords": [
+        "hello",
+        "hi",
+        "hey",
+        "greet"
+      ],
       "response": "Hello! Welcome to Tediwell. How can I help you today?"
     },
     {
-      "keywords": ["timing", "hours", "open", "close", "time"],
-      "response": "Our clinic is open Monday to Saturday, 9:00 AM – 7:00 PM. We are closed on Sundays and public holidays."
+      "keywords": [
+        "timing",
+        "hours",
+        "open",
+        "close",
+        "time"
+      ],
+      "response": "Our clinic is open Monday to Saturday, 9:00 AM \u2013 7:00 PM. We are closed on Sundays and public holidays."
     },
     {
-      "keywords": ["appointment", "book", "schedule", "visit"],
+      "keywords": [
+        "appointment",
+        "book",
+        "schedule",
+        "visit"
+      ],
       "response": "You can book an appointment by calling +1-800-Tediwell or visiting our website at www.Tediwell.com/book."
     },
     {
-      "keywords": ["doctor", "specialist", "physician", "staff"],
+      "keywords": [
+        "doctor",
+        "specialist",
+        "physician",
+        "staff"
+      ],
       "response": "We have specialists in Cardiology, Orthopedics, Dermatology, Pediatrics, and General Medicine."
     },
     {
-      "keywords": ["location", "address", "where", "directions"],
+      "keywords": [
+        "location",
+        "address",
+        "where",
+        "directions"
+      ],
       "response": "We are located at 123 Health Street, Medical District, New York, NY 10001."
     },
     {
-      "keywords": ["insurance", "coverage", "plan", "policy"],
+      "keywords": [
+        "insurance",
+        "coverage",
+        "plan",
+        "policy"
+      ],
       "response": "We accept most major insurance plans including BlueCross, Aetna, Cigna, and United Health. Please call us to verify your specific plan."
     },
     {
-      "keywords": ["emergency", "urgent", "ambulance", "critical"],
+      "keywords": [
+        "emergency",
+        "urgent",
+        "ambulance",
+        "critical"
+      ],
       "response": "For emergencies, please call 911 immediately. Our emergency helpline is +1-800-MED-HELP (available 24/7)."
     },
     {
-      "keywords": ["medicine", "prescription", "drug", "medication", "pharmacy"],
+      "keywords": [
+        "medicine",
+        "prescription",
+        "drug",
+        "medication",
+        "pharmacy"
+      ],
       "response": "Our in-house pharmacy is open during clinic hours. Prescriptions can be refilled by contacting your doctor or calling +1-800-MEDICARE."
     },
     {
-      "keywords": ["cost", "price", "fee", "charge", "payment"],
-      "response": "Consultation fees start at $50 for general medicine. Specialist consultations range from $100–$200. We accept cash, cards, and insurance."
+      "keywords": [
+        "cost",
+        "price",
+        "fee",
+        "charge",
+        "payment"
+      ],
+      "response": "Consultation fees start at $50 for general medicine. Specialist consultations range from $100\u2013$200. We accept cash, cards, and insurance."
     },
     {
-      "keywords": ["test", "lab", "blood", "report", "diagnostic"],
-      "response": "Our diagnostic lab offers blood tests, X-rays, MRI, and more. Reports are available within 24–48 hours. Lab is open 8:00 AM – 5:00 PM."
+      "keywords": [
+        "test",
+        "lab",
+        "blood",
+        "report",
+        "diagnostic"
+      ],
+      "response": "Our diagnostic lab offers blood tests, X-rays, MRI, and more. Reports are available within 24\u201348 hours. Lab is open 8:00 AM \u2013 5:00 PM."
     },
     {
-      "keywords": ["covid", "corona", "vaccine", "vaccination"],
+      "keywords": [
+        "covid",
+        "corona",
+        "vaccine",
+        "vaccination"
+      ],
       "response": "We offer COVID-19 testing and vaccinations. Please book an appointment in advance. Walk-ins are accepted based on availability."
     },
     {
-      "keywords": ["contact", "phone", "call", "email", "reach"],
+      "keywords": [
+        "contact",
+        "phone",
+        "call",
+        "email",
+        "reach"
+      ],
       "response": "You can reach us at +1-800-Tediwell or email us at info@Tediwell.com."
     },
     {
-      "keywords": ["bye", "goodbye", "thanks", "thank you", "exit"],
+      "keywords": [
+        "bye",
+        "goodbye",
+        "thanks",
+        "thank you",
+        "exit"
+      ],
       "response": "Thank you for contacting MediCare Plus. Stay healthy! Goodbye!"
     },
     {
-      "keywords": ["what", "is", "tedizolid", "tediwell"],
+      "keywords": [
+        "what",
+        "is",
+        "tedizolid",
+        "tediwell"
+      ],
       "response": "Tedizolid (Tediwell) is an oxazolidinone class antibiotic used to treat acute bacterial skin and skin structure infections caused by gram-positive bacteria."
     },
     {
-      "keywords": ["mechanism", "action", "tedizolid", "tediwell", "works", "how"],
+      "keywords": [
+        "mechanism",
+        "action",
+        "tedizolid",
+        "tediwell",
+        "works",
+        "how"
+      ],
       "response": "Tedizolid (Tediwell) works by inhibiting bacterial protein synthesis through binding to the 50S ribosomal subunit, thereby preventing bacterial growth."
     },
     {
-      "keywords": ["indications", "indicated", "tedizolid", "tediwell", "used", "for"],
+      "keywords": [
+        "indications",
+        "indicated",
+        "tedizolid",
+        "tediwell",
+        "used",
+        "for"
+      ],
       "response": "Tedizolid (Tediwell) is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) caused by susceptible gram-positive bacteria."
     },
     {
-      "keywords": ["bacteria", "covers", "cover", "tedizolid", "tediwell", "effective", "against"],
+      "keywords": [
+        "bacteria",
+        "covers",
+        "cover",
+        "tedizolid",
+        "tediwell",
+        "effective",
+        "against"
+      ],
       "response": "Tedizolid (Tediwell) is effective against gram-positive pathogens including MRSA (Methicillin-Resistant Staphylococcus aureus), Streptococcus species, and Enterococcus species."
     },
     {
-      "keywords": ["dosage", "dose", "recommended", "tedizolid", "tediwell", "how much"],
+      "keywords": [
+        "dosage",
+        "dose",
+        "recommended",
+        "tedizolid",
+        "tediwell",
+        "how much"
+      ],
       "response": "The usual recommended dose of Tedizolid (Tediwell) is 200 mg once daily for 6 days, as prescribed by a physician."
     },
     {
-      "keywords": ["food", "taken", "eat", "tedizolid", "tediwell", "with", "without"],
+      "keywords": [
+        "food",
+        "taken",
+        "eat",
+        "tedizolid",
+        "tediwell",
+        "with",
+        "without"
+      ],
       "response": "Yes, Tedizolid (Tediwell) can be taken with or without food."
     },
     {
-      "keywords": ["advantages", "benefits", "tedizolid", "tediwell", "key"],
+      "keywords": [
+        "advantages",
+        "benefits",
+        "tedizolid",
+        "tediwell",
+        "key"
+      ],
       "response": "Key advantages of Tedizolid (Tediwell) include: once daily dosing, shorter treatment duration, and effectiveness against resistant gram-positive bacteria such as MRSA."
     },
     {
-      "keywords": ["side effects", "side", "effects", "tedizolid", "tediwell", "common"],
+      "keywords": [
+        "side effects",
+        "side",
+        "effects",
+        "tedizolid",
+        "tediwell",
+        "common"
+      ],
       "response": "Common side effects of Tedizolid (Tediwell) may include: Nausea, Headache, Diarrhea, Vomiting, and Dizziness."
     },
     {
-      "keywords": ["viral", "virus", "cold", "flu", "tedizolid", "tediwell"],
+      "keywords": [
+        "viral",
+        "virus",
+        "cold",
+        "flu",
+        "tedizolid",
+        "tediwell"
+      ],
       "response": "No. Tedizolid (Tediwell) is an antibiotic and is not effective against viral infections such as cold or flu."
     },
     {
-      "keywords": ["pregnancy", "pregnant", "tedizolid", "tediwell"],
+      "keywords": [
+        "pregnancy",
+        "pregnant",
+        "tedizolid",
+        "tediwell"
+      ],
       "response": "Tedizolid (Tediwell) should be used during pregnancy only if prescribed by a doctor after evaluating the benefits and risks."
     },
     {
-      "keywords": ["precautions", "precaution", "careful", "tedizolid", "tediwell", "allergy"],
+      "keywords": [
+        "precautions",
+        "precaution",
+        "careful",
+        "tedizolid",
+        "tediwell",
+        "allergy"
+      ],
       "response": "Patients should inform their doctor about existing medical conditions, current medications, and history of allergy to antibiotics before using Tedizolid (Tediwell)."
     },
     {
-      "keywords": ["different", "difference", "unique", "tedizolid", "tediwell", "other", "antibiotics"],
+      "keywords": [
+        "different",
+        "difference",
+        "unique",
+        "tedizolid",
+        "tediwell",
+        "other",
+        "antibiotics"
+      ],
       "response": "Tedizolid (Tediwell) offers once-daily dosing, shorter therapy duration, and strong activity against resistant gram-positive bacteria, improving treatment convenience."
+    },
+    {
+      "keywords": [
+        "hello"
+      ],
+      "response": "asdfadf"
     }
   ],
   "default_response": "I'm sorry, I don't have information on that. Please call us at +1-800-MEDICARE or email info@medicareplus.com for further assistance."
