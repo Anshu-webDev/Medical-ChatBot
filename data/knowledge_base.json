@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "Tediwell",
+    "name": "Rebhaka",
     "tagline": "Your Health, Our Priority"
   },
   "faqs": [
@@ -11,257 +11,375 @@
         "hey",
         "greet"
       ],
-      "response": "Hello! Welcome to Tediwell. How can I help you today?"
+      "response": "Hello! Welcome to Rebhaka. How can I help you today?"
     },
     {
       "keywords": [
-        "timing",
-        "hours",
-        "open",
-        "close",
-        "time"
+        "tolyb usp",
+        "tolyb benefits",
+        "why tolyb",
+        "tolyb advantages",
+        "healing expert",
+        "tolyb unique"
       ],
-      "response": "Our clinic is open Monday to Saturday, 9:00 AM \u2013 7:00 PM. We are closed on Sundays and public holidays."
+      "response": "Tolyb is \u201cThe Healing Expert\u201d with three major advantages:\n\u2022 Double strength\n\u2022 Papain benefit\n\u2022 Economical pricing"
     },
     {
       "keywords": [
-        "appointment",
-        "book",
-        "schedule",
-        "visit"
+        "etoro",
+        "etoro 90",
+        "molecule of etoro",
+        "etoricoxib",
+        "etoro composition"
       ],
-      "response": "You can book an appointment by calling +1-800-Tediwell or visiting our website at www.Tediwell.com/book."
+      "response": "Etoro 90 contains Etoricoxib, a selective COX-2 inhibitor used for pain and inflammation management"
     },
     {
       "keywords": [
-        "doctor",
-        "specialist",
-        "physician",
-        "staff"
+        "patch indication",
+        "patch uses",
+        "when to use patches",
+        "chronic pain patch"
       ],
-      "response": "We have specialists in Cardiology, Orthopedics, Dermatology, Pediatrics, and General Medicine."
+      "response": "Pain patches are useful in chronic pain conditions such as osteoarthritis, low back pain, muscle pain, and cases requiring long-term pain management"
     },
     {
       "keywords": [
-        "location",
-        "address",
-        "where",
-        "directions"
+        "tedizolid dose",
+        "dosage of tediwell",
+        "tediwell dosage",
+        "how much tedizolid"
       ],
-      "response": "We are located at 123 Health Street, Medical District, New York, NY 10001."
+      "response": "The usual recommended dose of Tedizolid is 200 mg once daily for 6 days, as prescribed by the doctors"
     },
     {
       "keywords": [
-        "insurance",
-        "coverage",
-        "plan",
-        "policy"
+        "tedizolid for viral infection",
+        "cold flu tedizolid",
+        "antibiotic for virus",
+        "tediwell for cold"
       ],
-      "response": "We accept most major insurance plans including BlueCross, Aetna, Cigna, and United Health. Please call us to verify your specific plan."
+      "response": "No. Tedizolid is an antibiotic and is not effective against viral infections such as cold or flu"
     },
     {
       "keywords": [
-        "emergency",
-        "urgent",
-        "ambulance",
-        "critical"
+        "diclofenac patch",
+        "ketoprofen patch",
+        "buprenorphine patch",
+        "which patch to choose"
       ],
-      "response": "For emergencies, please call 911 immediately. Our emergency helpline is +1-800-MED-HELP (available 24/7)."
+      "response": "For mild to moderate pain, diclofenac or ketoprofen patches work well. For severe chronic pain, buprenorphine patches may be preferred based on clinical judgment"
     },
     {
       "keywords": [
-        "medicine",
-        "prescription",
-        "drug",
-        "medication",
-        "pharmacy"
+        "patch not sticking",
+        "patch adhesion",
+        "patch falls off",
+        "patch stability"
       ],
-      "response": "Our in-house pharmacy is open during clinic hours. Prescriptions can be refilled by contacting your doctor or calling +1-800-MEDICARE."
+      "response": "Our patches use advanced Hot-Melt technology, which improves stability, adhesion, and overall patch performance even in challenging weather conditions"
     },
     {
       "keywords": [
-        "cost",
-        "price",
-        "fee",
-        "charge",
-        "payment"
+        "bonfast",
+        "bonfast composition",
+        "cissus quadrangularis",
+        "moringa oleifera"
       ],
-      "response": "Consultation fees start at $50 for general medicine. Specialist consultations range from $100\u2013$200. We accept cash, cards, and insurance."
+      "response": "Bonfast contains Cissus quadrangularis and Moringa oleifera, which support bone health and fracture healing."
     },
     {
       "keywords": [
-        "test",
-        "lab",
-        "blood",
-        "report",
-        "diagnostic"
+        "bonfast indication",
+        "bonfast uses",
+        "fracture healing",
+        "bone healing supplement"
       ],
-      "response": "Our diagnostic lab offers blood tests, X-rays, MRI, and more. Reports are available within 24\u201348 hours. Lab is open 8:00 AM \u2013 5:00 PM."
+      "response": "Bonfast is used to support fracture healing, bone strength, and recovery in orthopedic conditions"
     },
     {
       "keywords": [
-        "covid",
-        "corona",
-        "vaccine",
-        "vaccination"
+        "bonfast technology",
+        "bioboost technology",
+        "bonfast usp"
       ],
-      "response": "We offer COVID-19 testing and vaccinations. Please book an appointment in advance. Walk-ins are accepted based on availability."
+      "response": "Bonfast is powered by BioBoost Technology, designed to preserve the potency and bioavailability of natural actives"
     },
     {
       "keywords": [
-        "contact",
-        "phone",
-        "call",
-        "email",
-        "reach"
+        "what is bioboost technology",
+        "bioboost meaning",
+        "bonfast bioboost"
       ],
-      "response": "You can reach us at +1-800-Tediwell or email us at info@Tediwell.com."
+      "response": "BioBoost Technology is an advanced low-temperature extraction and processing system that helps preserve the potency of natural actives like Cissus and Moringa, ensuring higher bioavailability and faster healing support"
     },
     {
       "keywords": [
-        "bye",
-        "goodbye",
-        "thanks",
-        "thank you",
-        "exit"
+        "what is bioboost technology",
+        "bioboost meaning",
+        "bonfast bioboost"
       ],
-      "response": "Thank you for contacting MediCare Plus. Stay healthy! Goodbye!"
+      "response": "BioBoost Technology is an advanced low-temperature extraction and processing system that helps preserve the potency of natural actives like Cissus and Moringa, ensuring higher bioavailability and faster healing support"
     },
     {
       "keywords": [
-        "what",
-        "is",
-        "tedizolid",
-        "tediwell"
+        "d3",
+        "cholecalciferol",
+        "vitamin d3",
+        "d3 indication",
+        "vitamin d deficiency"
       ],
-      "response": "Tedizolid (Tediwell) is an oxazolidinone class antibiotic used to treat acute bacterial skin and skin structure infections caused by gram-positive bacteria."
+      "response": "Cholecalciferol (Vitamin D3) is used for the prevention and treatment of Vitamin D deficiency and to support bone health"
     },
     {
       "keywords": [
-        "mechanism",
-        "action",
-        "tedizolid",
+        "d3 competitors",
+        "vitamin d3 brands",
+        "competitors of cholecalciferol"
+      ],
+      "response": "Common Vitamin D3 brands in the market include Uprise and Arachitol"
+    },
+    {
+      "keywords": [
+        "patches over oral nsaids",
+        "when to use patches",
+        "elderly pain patients",
+        "gi risk patients",
+        "renal risk pain management",
+        "chronic pain patches"
+      ],
+      "response": "Pain patches work very well in elderly patients, patients with GI or renal risk, and in chronic pain conditions like osteoarthritis or low back pain where long-term therapy is needed"
+    },
+    {
+      "keywords": [
+        "patch effectiveness",
+        "are patches effective",
+        "patches vs oral analgesics",
+        "pain patch efficacy",
+        "transdermal pain relief"
+      ],
+      "response": "Yes doctor, in chronic pain conditions patches provide comparable pain relief with the added advantage of steady drug release and fewer systemic side effects"
+    },
+    {
+      "keywords": [
+        "diclofenac patch",
+        "ketoprofen patch",
+        "buprenorphine patch",
+        "which pain patch",
+        "patch selection",
+        "severe chronic pain patch"
+      ],
+      "response": "For mild to moderate pain, diclofenac or ketoprofen patches work well. For severe chronic pain, buprenorphine patches are generally a better option based on patient requirement"
+    },
+    {
+      "keywords": [
+        "patch not sticking",
+        "patch adhesion issue",
+        "patch falls off",
+        "weather issue patches",
+        "hot melt technology"
+      ],
+      "response": "To address this issue, our patches are developed using advanced Hot-Melt technology, which provides better stability, stronger adhesion, and improved patch performance compared to conventional patches"
+    },
+    {
+      "keywords": [
+        "patch costlier",
+        "expensive pain patches",
+        "why use patches",
+        "patch benefits",
+        "patch value",
+        "transdermal advantages"
+      ],
+      "response": "Although patches may appear costlier initially, they provide 24-hour sustained relief, reduce pill burden, improve compliance, and minimize systemic side effects. In long-term pain management, they help achieve better overall patient outcomes"
+    },
+    {
+      "keywords": [
+        "etoro difference",
+        "etoro usp",
+        "why etoro",
+        "etoro benefits",
+        "etoro advantages",
+        "etoro unique",
+        "etoro special",
+        "etoro brand",
+        "etoro th usp"
+      ],
+      "response": "Etoro 90 / Etoro TH stands out because of:\n\u2022 Trusted manufacturing standards\n\u2022 Better availability in your area\n\u2022 Competitive pricing for improved patient compliance"
+    },
+    {
+      "keywords": [
+        "etoricoxib vs diclofenac",
+        "why etoricoxib",
+        "etoro vs diclofenac",
+        "cox 2 inhibitor",
+        "gastric safety",
+        "etoricoxib benefits",
+        "nsaid comparison"
+      ],
+      "response": "Diclofenac inhibits both COX-1 and COX-2, which increases the risk of gastritis, ulcers, and gastrointestinal bleeding. Etoricoxib is a selective COX-2 inhibitor and therefore causes less gastric mucosal damage. It also has a longer half-life of approximately 22 hours, providing 24-hour pain relief with a single daily dose"
+    },
+    {
+      "keywords": [
+        "etoro price",
+        "etoro cost",
+        "etoro mrp",
+        "etoro economical",
+        "etoro affordability",
+        "etoro th cost",
+        "etoricoxib price"
+      ],
+      "response": "Compared to other Etoricoxib brands in the market, which are usually priced above \u20b917 per tablet, Etoro 90 is available at around \u20b914 per tablet. Similarly, Etoricoxib + Thiocolchicoside combinations are generally priced above \u20b930 per tablet, whereas Etoro TH is available at around \u20b922 per tablet, making it a more economical option for patients"
+    },
+    {
+      "keywords": [
+        "how long etoro use",
+        "etoricoxib duration",
+        "etoro safety",
+        "long term use",
+        "etoricoxib prescription",
+        "etoro treatment duration"
+      ],
+      "response": "Etoricoxib has clinical evidence supporting its use for up to 52 weeks. However, for Etoricoxib combinations, long-term safety data is not available, so they are generally recommended for short-term use only based on clinical judgment"
+    },
+    {
+      "keywords": [
+        "etoro side effects",
+        "etoricoxib side effects",
+        "etoro adverse effects",
+        "etoro safety profile",
+        "etoro reactions"
+      ],
+      "response": "Common side effects may include headache, nausea, diarrhea, respiratory tract infections, ankle swelling, fluid retention, and hypertension"
+    },
+    {
+      "keywords": [
+        "tolyb price",
+        "tolyb cost",
+        "tolyb economical",
+        "tolyb affordability",
+        "tolyb vs competitors",
+        "tolyb savings"
+      ],
+      "response": "Tolyb is a highly economical brand offering savings of more than 75% per strip compared to leading brands. While leading brands are priced around \u20b953 per tablet, Tolyb is available at approximately \u20b930 per tablet, making it a cost-effective option without compromising therapeutic benefit"
+    },
+    {
+      "keywords": [
+        "tolyb vegetarian",
+        "is tolyb veg",
+        "tolyb non veg",
+        "tolyb composition",
+        "vegetarian product"
+      ],
+      "response": "Tolyb is a vegetarian product"
+    },
+    {
+      "keywords": [
+        "tolyb side effects",
+        "tolyb adverse effects",
+        "tolyb safety",
+        "tolyb reactions"
+      ],
+      "response": "Common side effects may include mild gastric discomfort, nausea, diarrhea, and headache"
+    },
+    {
+      "keywords": [
+        "etoro indication",
+        "uses of etoro",
+        "etoricoxib indication",
+        "oa ra as",
+        "arthritis pain"
+      ],
+      "response": "Etoro is commonly used in Osteoarthritis (OA), Rheumatoid Arthritis (RA), Ankylosing Spondylitis (AS), acute pain, and musculoskeletal pain conditions"
+    },
+    {
+      "keywords": [
         "tediwell",
-        "works",
-        "how"
-      ],
-      "response": "Tedizolid (Tediwell) works by inhibiting bacterial protein synthesis through binding to the 50S ribosomal subunit, thereby preventing bacterial growth."
-    },
-    {
-      "keywords": [
-        "indications",
-        "indicated",
         "tedizolid",
-        "tediwell",
-        "used",
-        "for"
+        "tediwell antibiotic",
+        "molecule of tediwell"
       ],
-      "response": "Tedizolid (Tediwell) is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) caused by susceptible gram-positive bacteria."
+      "response": "Tediwell contains Tedizolid, an oxazolidinone class antibiotic used to treat acute bacterial skin and skin structure infections caused by susceptible gram-positive bacteria"
     },
     {
       "keywords": [
-        "bacteria",
-        "covers",
-        "cover",
-        "tedizolid",
-        "tediwell",
-        "effective",
-        "against"
+        "indications of tediwell",
+        "tedizolid indication",
+        "skin infection antibiotic",
+        "absssi"
       ],
-      "response": "Tedizolid (Tediwell) is effective against gram-positive pathogens including MRSA (Methicillin-Resistant Staphylococcus aureus), Streptococcus species, and Enterococcus species."
+      "response": "Tedizolid is indicated for Acute Bacterial Skin and Skin Structure Infections (ABSSSI) caused by susceptible gram-positive bacteria including MRSA"
     },
     {
       "keywords": [
-        "dosage",
-        "dose",
-        "recommended",
-        "tedizolid",
-        "tediwell",
-        "how much"
+        "tedizolid with food",
+        "tediwell before food",
+        "tedizolid after food",
+        "how to take tedizolid"
       ],
-      "response": "The usual recommended dose of Tedizolid (Tediwell) is 200 mg once daily for 6 days, as prescribed by a physician."
+      "response": "Tedizolid can be taken with or without food as prescribed by the doctor"
     },
     {
       "keywords": [
-        "food",
-        "taken",
-        "eat",
-        "tedizolid",
-        "tediwell",
-        "with",
-        "without"
+        "advantages of tediwell",
+        "tedizolid benefits",
+        "why tediwell",
+        "tedizolid usp"
       ],
-      "response": "Yes, Tedizolid (Tediwell) can be taken with or without food."
+      "response": "Key advantages of Tedizolid include once-daily dosing, shorter treatment duration, and strong activity against resistant gram-positive bacteria such as MRSA"
     },
     {
       "keywords": [
-        "advantages",
-        "benefits",
-        "tedizolid",
-        "tediwell",
-        "key"
+        "tediwell side effects",
+        "tedizolid side effects",
+        "tedizolid safety",
+        "adverse effects"
       ],
-      "response": "Key advantages of Tedizolid (Tediwell) include: once daily dosing, shorter treatment duration, and effectiveness against resistant gram-positive bacteria such as MRSA."
+      "response": "Common side effects may include nausea, headache, diarrhea, vomiting, and dizziness"
     },
     {
       "keywords": [
-        "side effects",
-        "side",
-        "effects",
-        "tedizolid",
-        "tediwell",
-        "common"
+        "tedizolid pregnancy",
+        "tediwell in pregnancy",
+        "can pregnant women take tedizolid"
       ],
-      "response": "Common side effects of Tedizolid (Tediwell) may include: Nausea, Headache, Diarrhea, Vomiting, and Dizziness."
+      "response": "Tedizolid should be used during pregnancy only if prescribed by a physician after evaluating the benefits and risks"
     },
     {
       "keywords": [
-        "viral",
-        "virus",
-        "cold",
-        "flu",
-        "tedizolid",
-        "tediwell"
+        "tedizolid for viral infection",
+        "cold flu tedizolid",
+        "antibiotic for virus",
+        "tediwell for cold"
       ],
-      "response": "No. Tedizolid (Tediwell) is an antibiotic and is not effective against viral infections such as cold or flu."
+      "response": "No. Tedizolid is an antibiotic and is not effective against viral infections such as cold or flu"
     },
     {
       "keywords": [
-        "pregnancy",
-        "pregnant",
-        "tedizolid",
-        "tediwell"
+        "difference of tediwell",
+        "why tediwell different",
+        "tediwell usp",
+        "unique tedizolid"
       ],
-      "response": "Tedizolid (Tediwell) should be used during pregnancy only if prescribed by a doctor after evaluating the benefits and risks."
+      "response": "Tediwell offers once-daily dosing, shorter therapy duration, and strong activity against resistant gram-positive bacteria, improving treatment convenience and compliance"
     },
     {
       "keywords": [
-        "precautions",
-        "precaution",
-        "careful",
-        "tedizolid",
-        "tediwell",
-        "allergy"
+        "bonfast usp",
+        "bonfast benefits",
+        "why bonfast",
+        "bonfast advantages",
+        "bonfast unique"
       ],
-      "response": "Patients should inform their doctor about existing medical conditions, current medications, and history of allergy to antibiotics before using Tedizolid (Tediwell)."
+      "response": "Bonfast offers a dual-benefit formula with Cissus quadrangularis and Moringa oleifera for effective bone healing support. It is powered by advanced BioBoost Technology for enhanced bioavailability and is also an economical option for better patient affordability and compliance"
     },
     {
       "keywords": [
-        "different",
-        "difference",
-        "unique",
-        "tedizolid",
-        "tediwell",
-        "other",
-        "antibiotics"
+        "tedizolid vs linezolid",
+        "why tedizolid",
+        "tediwell vs linezolid",
+        "better than linezolid"
       ],
-      "response": "Tedizolid (Tediwell) offers once-daily dosing, shorter therapy duration, and strong activity against resistant gram-positive bacteria, improving treatment convenience."
-    },
-    {
-      "keywords": [
-        "hello"
-      ],
-      "response": "asdfadf"
+      "response": "Compared to Linezolid, Tedizolid offers once-daily dosing, shorter treatment duration, lower risk of gastrointestinal side effects, and reduced chances of thrombocytopenia with short-course therapy"
     }
   ],
   "default_response": "I'm sorry, I don't have information on that. Please call us at +1-800-MEDICARE or email info@medicareplus.com for further assistance."
